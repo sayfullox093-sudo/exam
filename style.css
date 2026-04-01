@@ -1,0 +1,167 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    
+ font-family: "Inter", sans-serif;
+   
+}
+
+.header {
+width: 1440px;
+height: 857-px;
+    margin: 0 auto;
+    background-color: #014E56;
+    color: #FFFFFF;
+
+}
+
+.li {
+    border: 2px solid #FFFFFF;
+    border-radius: 24px;
+    width: 88px;
+    color: #FFFFFF;
+    text-align: center;
+
+}
+ .div1 ul  {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 40px;
+}
+
+.h1 {
+    font-size: 64px;
+    color: #FFFFFF;
+    padding-left: 50px;
+}
+
+.div2 {
+    display: flex;
+    justify-content: space-between;
+
+
+}
+
+.p {
+    width: 730px;
+    height: 112px;
+  
+}
+.div1 {
+  padding-top: 3px;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    padding: 70px 150px;
+  
+}
+.div1 ul li{
+display: flex;
+justify-content: space-between;
+
+}
+.conteiner{
+    width: 1440px;
+    height: 700px;
+    background-color: #004047;
+}
+.h12{
+    text-align: center;
+font-size: 48px;
+color: #FFFFFF;
+padding-top: 71px;
+}
+.kartochki{
+    width: 350px;
+    height: 274px;
+    background-color: #012F34;
+    text-align: center;
+    padding: 10px 0;
+   
+}
+.card{
+    width: 1110px;
+height: 784px;
+padding-top: 70px;
+display: flex;
+gap: 30px;
+padding:69px 120px ;
+}
+.h2{
+    color: #79C8C7;
+    font-size: 18px;
+    text-align: center;
+   padding-top: 3px;
+}
+.text{
+    color: #79C8C7;
+   padding-top: 31px;
+      
+}
+.conteiner2{
+    width: 1440px;
+    height: 355px;
+    background-color: #012F34;
+   
+}
+.hh1{
+    color: #FFFFFF;
+    font-size: 48px;
+    text-align: center;
+    padding-top: 113px;
+
+}
+.logotip{
+    width: 1110px;
+    height: 36px;
+    display: flex;
+    gap: 80px;
+    padding:52px 165px ;
+}
+.conteiner3{
+    width: 1440px;
+    height: 200px;
+    background-color: #F67E7E;
+    display: flex;
+    justify-content: space-between;
+    padding: 76px 262px;
+}
+
+.ready{
+width: 508px;
+height: 48px;
+color: #012F34;
+font-size: 48px;
+}
+.contact{
+border-radius: 24px;
+border: 2px solid #012F34;
+width: 88px;
+height: 28px;
+
+}
+
+.footer{
+    width: 1440px;
+    height: 146px;
+    background-color: #002529;
+    display: flex;
+   justify-content: space-between;
+   padding-top: 48px;
+   padding-left: 160px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
